@@ -1,4 +1,4 @@
-# Image Captioning project, based on Inception CNN + LSTM RNN
+# Image captioning project based on Inception CNN + LSTM RNN
 
 Данный проект был реализован в рамках курса Deep Learning School. Была написана LSTM с использованием фреймворка PyTorch, которая на вход получала вектор с выхода Inception,
 который содержит всю информацию об изображении. Также была написана предобработка данных и цикл обучения
